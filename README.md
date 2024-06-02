@@ -1,2 +1,2 @@
 # FTNE_Car
- FTNE in C# of car riding in a circuit
+ Fixed-Topology NeuroEvolution (FTNE) in C# of car riding in a circuit
